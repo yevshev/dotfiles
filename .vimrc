@@ -9,7 +9,8 @@ Plugin 'sjl/badwolf'
 
 call vundle#end()
 filetype plugin indent on
-
+set autoindent
+set smartindent
 set number
 syntax enable
 set laststatus=2
