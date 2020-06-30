@@ -19,3 +19,7 @@
 [submodule ".zsh/antigen"]
 	path = .zsh/antigen
 	url = https://github.com/zsh-users/antigen.git
+[submodule ".fonts"]
+	path = .fonts
+	url = https://github.com/ryanoasis/nerd-fonts.git
+	branch = 2.1.0
