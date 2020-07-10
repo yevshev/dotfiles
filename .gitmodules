@@ -23,3 +23,6 @@
 	path = .fonts
 	url = https://github.com/ryanoasis/nerd-fonts.git
 	branch = 2.1.0
+[submodule ".config/wofi"]
+	path = .config/wofi
+	url = https://github.com/dracula/wofi.git
